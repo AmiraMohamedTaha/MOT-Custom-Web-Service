@@ -1,5 +1,16 @@
-# City Parameters
+# List City Parameters:
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9fe44840-148d-4d9b-9a39-92be90f69200" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9cf49f8c-24ae-4467-a953-b94d789ce9bf" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/591f4522-6ce9-4a9c-b669-25396e327a53" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be4bc69-0188-439a-b3f2-15bb6e4acd4e" />
+
+## Link to Video:
+
+https://drive.google.com/file/d/1b7kRT5UjEmg67lC34PkoZQeVx9tfcysx/view?usp=sharing
 
 # Parking Areas Application Search:
 
