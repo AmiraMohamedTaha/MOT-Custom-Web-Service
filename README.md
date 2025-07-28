@@ -26,7 +26,7 @@ https://learning.masterofthings.com/Amira%20Service%20Alex?ParkingName=Mansoura&
 https://drive.google.com/file/d/1Z9SJElXt29_lt_GIDZfM379Af-BPLA8S/view?usp=sharing
 
 
-# Update Parameter Values in Application:
+# Update Parameters Values in Application:
 
 https://learning.masterofthings.com/Amira%20Parking%20Service?ParkingName=cairo&NewFees=50
 
