@@ -10,7 +10,7 @@ https://learning.masterofthings.com/Amira%20Parking%20Search?city=Tanta&DriverMa
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1be4bc69-0188-439a-b3f2-15bb6e4acd4e" />
 
-## Link to Video:
+## Link to video:
 
 https://drive.google.com/file/d/1b7kRT5UjEmg67lC34PkoZQeVx9tfcysx/view?usp=sharing
 
@@ -24,7 +24,7 @@ https://learning.masterofthings.com/Amira%20Service%20Alex?ParkingName=Mansoura&
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/13b65790-a61f-430e-a1b0-ae6f08bbe0b4" />
 
-## Link to Video:
+## Link to video:
 https://drive.google.com/file/d/1Z9SJElXt29_lt_GIDZfM379Af-BPLA8S/view?usp=sharing
 
 
@@ -38,5 +38,5 @@ https://learning.masterofthings.com/Amira%20Parking%20Service?ParkingName=cairo&
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7920b3e7-b5f3-4a7e-abfb-8bdbba0eefdb" />
 
-## Link to Video:
+## Link to video:
 https://drive.google.com/file/d/1ZmenKMWdvS-sam_eUZLw7JOeTn4CTHxv/view?usp=sharing
