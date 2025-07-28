@@ -6,7 +6,7 @@ if (!supportedCities.includes(cityName)) {
     service.error('Not supported city');
 }
 
-const query = `SELECT * FROM GROUP_67239 WHERE city = '${cityName}' order by TimeStamp descending LIMIT 1`;
+const query = `SELECT * FROM GROUP_67239 WHERE city = '${cityName}' LIMIT 1 `;
 
 function searchIn_callback(err, result) {
     if (err) {
